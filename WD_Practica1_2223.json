@@ -150,5 +150,15 @@
         "alt": "Fan Art del personaje de League of Legends: Lux",
         "texto": "Blog personal de Fan Arts del personaje de League of Legends: Lux",
         "url": "https://lauravilasanchez.github.io/focusedlux/"
-    }
+    },
+    {
+         "id": 19,
+         "autor": "Vitaliy Skrynyk i Quim Riba",
+         "titulo": "Toy Store",
+         "srcimg": "https://github.com/VitaliySkrynyk/ToyStoree/blob/main/Imatges/toy%20store.png",
+         "alt": "",
+         "texto": "És una web de joguines, està destinada per als pares dels nens.”,
+         "url": "https://vitaliyskrynyk.github.io/ToyStoree/esquelet_pagina.html"
+     }
+ 
 ]
