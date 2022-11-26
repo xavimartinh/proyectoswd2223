@@ -1,10 +1,10 @@
 [{
         "id": 1,
-        "autor": "xxxx",
-        "titulo": "xxxx",
-        "srcimg": " ",
-        "alt": "Selfie d'un Macaco utilitzat com a logo de la pàgina",
-        "texto": "Esto es un texto de presentación de la página web",
-        "url": "https://google.com"
+        "autor": "Laura Aguiló i Sandra Camacho",
+        "titulo": "San & Lau Portfolio",
+        "srcimg": "https://raw.githubusercontent.com/lauraaguilo/sanlauportfolio/master/img/logo1.c13a4b43.jpg", 
+        "alt": "Logo del portfolio ",
+        "texto": "Portfolio creatiu de Sandra Camacho i Laura Aguiló",
+        "url": "https://lauraaguilo.github.io/sanlauportfolio/"
     }
 ]
