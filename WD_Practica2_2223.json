@@ -2,7 +2,7 @@
         "id": 1,
         "autor": "Germán Arbellón & Oriol Larroya",
         "titulo": "Museo do Macaco",
-        "srcimg": "https://github.com/GermanUDL/museodomacaco/blob/main/imatges/selfie-macaco.jpg?raw=true ",
+        "srcimg": "https://github.com/GermanUDL/museodomacaco/blob/main/imatges/selfie-macaco.jpg?raw=true ",
         "alt": "Selfie d'un Macaco utilitzat com a logo de la pàgina",
         "texto": "O melhor museu de macacos de toda Europa onde podemos encontrar as melhores espécies de macacos do todo o planeta",
         "url": "https://germanudl.github.io/museodomacaco/"
@@ -12,7 +12,7 @@
         "autor": "Ariana Ariño González y Rut Guardia Escuer",
         "titulo": "Perennial",
         "srcimg": "https://github.com/RutGuardia/prac1/blob/main/portada.png?raw=true",
-        "alt": "portada, hombre, cámara, viga, blanco y negro ",
+        "alt": "portada, hombre, cámara, viga, blanco y negro ",
         "texto": "imágenes históricas que tienen una anécdota detrás",
         "url": "https://rutguardia.github.io/perennial/"
     },
@@ -40,7 +40,7 @@
         "titulo": "Resurrection Fest",
         "srcimg": "https://ccm24.github.io/ResurrectionFest/Fotos/Carteleraresurrection.jpg",
         "alt": "Cartelera del festival",
-        "texto": "Redisseny web de la pàgina del festival Resurrection Fest",
+        "texto": "Redisseny web de la pàgina del festival Resurrection Fest",
         "url": "https://ccm24.github.io/ResurrectionFest/"
     },
     {
@@ -49,7 +49,7 @@
         "titulo": "Imagine Dragons",
         "srcimg": "https://raw.githubusercontent.com/xavimartinh/Landing-page/38fc7f67f1e82ce3a0107f32d4fcdf27a6416e9d/imatges/banner.jpg",
         "alt": "Página web d 'Imagine Dragons",
-        "texto": "Pàgina web d'Imagine Dragons",
+        "texto": "Pàgina web d'Imagine Dragons",
         "url": "https://xavimartinh.github.io/Landing-page/"
     },
     {
@@ -58,7 +58,7 @@
         "titulo": "Naduazca",
         "srcimg": "https://naduazca.github.io/NADUAZCA_PORTFOLIO/IMATGES/logo.png",
         "alt": "Logotipo Naduazca ",
-        "texto ": "Portfolio personal de Naduazca.¡Aquí  podréis encontrar todas las facetas artísticas de  Nadia!",
+        "texto ": "Portfolio personal de Naduazca.¡Aquí  podréis encontrar todas las facetas artísticas de  Nadia!",
         "url": "https://naduazca.github.io/NADUAZCA_PORTFOLIO/"
     },
     {
@@ -113,7 +113,7 @@
         "srcimg": "https://github.com/aps38/International-Trips/blob/d4af1b0cbb952d3c7b4c2e66e07207e188926ed0/img-representativa.jpg?raw=true",
         "alt": "La imatge descriu una blog informatiu per fer viatges arreu del món.",
         "texto": "La web és un blog creat per donar informació sobre tot tipus de viatges als usuaris que ens visitin.",
-        "url": " https://github.com/aps38/International-Trips.git"
+        "url": " https://github.com/aps38/International-Trips.git"
     },
     {
         "id": 15,
