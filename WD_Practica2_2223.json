@@ -6,6 +6,15 @@
         "alt": "",
         "texto": "Resumen de la web",
         "url": "https://afrikiudl.github.io/proyectoswd2223/"
+    },
+ {
+        "id": 2,
+        "autor": "NombreXXX, NombreXXX",
+        "titulo": "Titulo Web",
+        "srcimg": "https://picsum.photos/200",
+        "alt": "Falta text alternatiu",
+        "texto": "Resumen de la web",
+        "url": "https://afrikiudl.github.io/proyectoswd2223/"
     }
  
 ]
