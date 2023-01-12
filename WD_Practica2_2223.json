@@ -9,13 +9,13 @@
         "url": "https://lauravilasanchez.github.io/niflowers2/"
       },
       {
-        "id": 1,
-        "autor": "NombreXXX, NombreXXX",
-        "titulo": "Titulo Web",
-        "srcimg": "https://picsum.photos/200",
-        "alt": "Falta text alternatiu",
-        "texto": "Resumen de la web",
-        "url": "https://afrikiudl.github.io/proyectoswd2223/"
+        "id": 2,
+        "autor": "Cristina Bossacoma, Judith Farré",
+        "titulo": "Miau",
+        "srcimg": "https://raf110.github.io/miau/img/logo.1ce3736e.png",
+        "alt": "Logo de la web",
+        "texto": "Miau és una pàgina web catalana on trobar gatets per adoptar-los",
+        "url": "https://raf110.github.io/miau/img/logo.1ce3736e.png"
       }
  
 ]
