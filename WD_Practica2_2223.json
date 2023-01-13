@@ -17,5 +17,13 @@
         "texto": "Miau és una pàgina web catalana on trobar gatets per adoptar-los",
         "url": "https://raf110.github.io/miau/"
       }
- 
+      {
+        "id": 3,
+        "autor": "Nadia Diaz Cano, Xavier de Haro Martin",
+        "titulo": "Xana",
+        "srcimg": "https://github.com/Naduazca/xana/blob/ceb68645beff141fe37642abc2242b1671f09e4e/logoxana.jpg",
+        "alt": "Logotip de la web",
+        "texto": "Xana és una pàgina sobre els records",
+        "url": "https://Naduazca.github.io/xana/"
+      }
 ]
